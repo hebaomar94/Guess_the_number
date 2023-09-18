@@ -1,8 +1,4 @@
-# Guess_the_number
 
-Sure, here's a sample README file for your JavaScript Number Guesser game:
-
----
 
 # Number Guesser Game
 
